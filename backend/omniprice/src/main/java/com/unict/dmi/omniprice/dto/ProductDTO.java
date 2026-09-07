@@ -13,7 +13,6 @@ public class ProductDTO {
     private Double maxPrice;
     private Double avgPrice;
 
-    // Getter e Setter (generati a mano per evitare i problemi con Lombok di prima)
     public String getId() {
         return id;
     }

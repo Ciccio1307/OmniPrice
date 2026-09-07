@@ -6,7 +6,6 @@ public class UserDTO {
     private String name;
     private String role;
 
-    // Getter e Setter generati a mano (o tramite l'IDE)
     public String getId() {
         return id;
     }
